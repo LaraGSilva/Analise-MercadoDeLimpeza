@@ -19,7 +19,7 @@ Este projeto consiste na análise de três bases de dados de uma loja de produto
 
 O objetivo desta análise é extrair insights valiosos a partir das bases de dados fornecidas, visando entender padrões de compra, comportamentos dos clientes e otimizar estratégias de vendas e estoque.
 
-###Exemplos de gráficos presentes no projeto:
+### Exemplos de gráficos presentes no projeto:
 
 ### -- Análise de vendas por ano
 ![Alt text](results/pltEX.png)
